@@ -19,7 +19,7 @@ Software: Jupyter Notebooks and Excel<br />
 - **Visualizations and report creation:** Used Python to create visualization and presented the results in Tableau.
 
 ### FOLDERS
-The basket analysis was separated into the following folders:
+The analysis was organized into the following folders:
 - **Project Management:** Contains the Project Brief
 - **Data:** Separated into Original and Prepared Data. These contain the original data frames and the data frames after they have been cleaned and prepared for analysis respectively.
 - **Scripts:** Contains all the Python coding involved for the entire analysis process
