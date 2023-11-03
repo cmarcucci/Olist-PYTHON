@@ -1,5 +1,5 @@
 # Olist-PYTHON
-A data analysis project using PYTHON to analyze sales data from an an ecommerce platform, Olist.
+A data analysis project using PYTHON to analyze sales data from an ecommerce platform, Olist.
 
 ### OBJECTIVE
 Olist is a Brazilian e-commerce platform and marketplace that connects small and medium-sized businesses (SMBs) with various e-commerce channels to help them sell their products online. It essentially acts as an intermediary between sellers and larger e-commerce platforms, providing a range of services to facilitate online sales for SMBs. 
@@ -24,7 +24,7 @@ The analysis was organized into the following folders:
 - **Data:** Separated into Original and Prepared Data. These contain the original data frames and the data frames after they have been cleaned and prepared for analysis respectively. NOTE: This folder has not been included
 Scripts: Contains all the Python coding involved for the entire analysis process
 - **Scripts:** Contains all the Python coding involved for the entire analysis process
-- **Analysis:** Contains the Visualizations used for developing insights and presenting on the final repor
+- **Analysis:** Contains the Visualizations used for developing insights and presenting on the final report
 
 ### VISUALIZATIONS
 [Tableau Storyboard](https://public.tableau.com/views/OlistAnalysis_16959964441020/AnalysisOlist?:language=en-US&:display_count=n&:origin=viz_share_link)
