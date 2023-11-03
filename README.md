@@ -5,7 +5,7 @@ A data analysis project using PYTHON to analyze sales data from an an ecommerce 
 Olist is a Brazilian e-commerce platform and marketplace that connects small and medium-sized businesses (SMBs) with various e-commerce channels to help them sell their products online. It essentially acts as an intermediary between sellers and larger e-commerce platforms, providing a range of services to facilitate online sales for SMBs. 
 
 ### DATA
-The dataset used for this project can be found on [Kaggle]([url](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)) and was provided by Olist. It has information on 100k orders placed between 2016 to 2018 through multiple marketplaces in Brazil. 
+The dataset used for this project can be found on [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) and was provided by Olist. It has information on 100k orders placed between 2016 to 2018 through multiple marketplaces in Brazil. 
 
 ### TOOLS
 Language: Python <br />
@@ -27,4 +27,4 @@ Scripts: Contains all the Python coding involved for the entire analysis process
 - **Analysis:** Contains the Visualizations used for developing insights and presenting on the final repor
 
 ### VISUALIZATIONS
-[Tableau Storyboard]([url](https://public.tableau.com/views/OlistAnalysis_16959964441020/AnalysisOlist?:language=en-US&:display_count=n&:origin=viz_share_link)https://public.tableau.com/views/OlistAnalysis_16959964441020/AnalysisOlist?:language=en-US&:display_count=n&:origin=viz_share_link))
+[Tableau Storyboard](https://public.tableau.com/views/OlistAnalysis_16959964441020/AnalysisOlist?:language=en-US&:display_count=n&:origin=viz_share_link)
